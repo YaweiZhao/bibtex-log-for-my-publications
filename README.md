@@ -8,7 +8,7 @@
 @article{Zhao:2016:CCA,
  author = {Zhao, Yawei and Guo, Deke and Xu, Jia and Lv, Pin and Chen, Tao and Yin, Jianping},
  title = {CATS: Cooperative Allocation of Tasks and Scheduling of Sampling Intervals for Maximizing Data Sharing in WSNs},
- journal = {ACM Transactions on Sensor Networks},
+ journal = {ACM Transactions on Sensor Networks (TOSN)},
  volume = {12},
  number = {4},
  month = {September},
